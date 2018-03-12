@@ -1,5 +1,7 @@
 # GUESSING GAME
-\nMake file was run: 
-Mon Mar 12 12:58:44 MSK 2018
-\nguessinggame.sh contained: 
+
+Make file was run: 
+Mon Mar 12 13:12:11 MSK 2018
+
+guessinggame.sh contained: 
       22
